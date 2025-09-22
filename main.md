@@ -1,6 +1,6 @@
-# Echo Interface Development Kit (EIDK)
+# Echo Interface Development Framework (Echo IDF)
 
-**EIDK** organiza el desarrollo de interfaces en tres ejes: **Interface, Style y Behavior (ISB)**.  
+**Echo IDF** organiza el desarrollo de interfaces en tres ejes: **Interface, Style y Behavior (ISB)**.  
 Esta división refleja cómo se construyen aplicaciones modernas en la web y lo traslada al entorno de Roblox Studio.
 
 ---
