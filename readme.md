@@ -1,4 +1,4 @@
-# Echo Interface Development Framework (Echo IDF)
+# Echo Interface Development Framework (EchoIDF)
 
 **Echo IDF** organiza el desarrollo de interfaces en tres ejes: **Interface, Style y Behavior (ISB)**.  
 Esta división refleja cómo se construyen aplicaciones modernas en la web y lo traslada al entorno de Roblox Studio.
@@ -52,3 +52,7 @@ end)</code>
 - **Behavior** → gestionar lógica y eventos sin ensuciar la estructura.  
 
 Este flujo ISB ofrece una experiencia similar al **desarrollo web moderno**, pero optimizada para la creación de GUI en Roblox.
+
+---
+
+- @: A **Getti's** Product
