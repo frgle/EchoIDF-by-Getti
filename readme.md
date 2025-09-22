@@ -34,7 +34,7 @@ Con EchoIM aplicas estilos centralizados usando selectores tipo CSS, lo que gara
 > *Cómo se ve en pantalla.*  
 
 Ejemplo: <code>
-EIM.style(classSelector("btn-primary"), { 
+EIM.style(attrSelector("btn-primary", true), { 
   BackgroundColor3 = Color3.fromRGB(50,150,250) 
 })</code>
 
