@@ -12,7 +12,7 @@ Separar responsabilidades para que la interfaz sea **clara, consistente y manten
 
 ## 🔹 Interface (EchoML)
 - **Echo** Markup Language
-- [EchoML Reference](https://github.com/EchoIDF-by-Getti/ml-reference)
+- [EchoML Reference](https://frgle.github.io/EchoIDF-by-Getti/ml-reference)
 
 Representa la **estructura visual**.  
 Con EchoML declaras jerárquicamente los elementos de la GUI, al estilo de un lenguaje de marcado.  
@@ -27,7 +27,7 @@ Frame({ Name = "App" },
 
 ## 🔹 Style (EchoIM)
 - **Echo** Interface Manager
-- [EchoIM Reference](https://github.com/EchoIDF-by-Getti/im-reference)
+- [EchoIM Reference](https://frgle.github.io/EchoIDF-by-Getti/im-reference)
   
 Representa la **apariencia**.  
 Con EchoIM aplicas estilos centralizados usando selectores tipo CSS, lo que garantiza consistencia y reutilización.  
@@ -42,7 +42,7 @@ EIM.style(classSelector("btn-primary"), {
 
 ## 🔹 Behavior (EchoIM)
 - **Echo** Interface Manager
-- [EchoIM Reference](https://github.com/EchoIDF-by-Getti/im-reference)
+- [EchoIM Reference](https://frgle.github.io/EchoIDF-by-Getti/im-reference)
   
 Representa la **interacción**.  
 EchoIM también gestiona eventos desacoplados del árbol visual, vinculando callbacks a elementos mediante selectores.  
