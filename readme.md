@@ -11,6 +11,7 @@ Separar responsabilidades para que la interfaz sea **clara, consistente y manten
 ---
 
 ## 🔹 Interface (EchoML)
+- **Echo** Markup Language
 Representa la **estructura visual**.  
 Con EchoML declaras jerárquicamente los elementos de la GUI, al estilo de un lenguaje de marcado.  
 > *Qué existe en pantalla.*  
@@ -23,6 +24,7 @@ Frame({ Name = "App" },
 ---
 
 ## 🔹 Style (EchoIM)
+- **Echo** Interface Manager
 Representa la **apariencia**.  
 Con EchoIM aplicas estilos centralizados usando selectores tipo CSS, lo que garantiza consistencia y reutilización.  
 > *Cómo se ve en pantalla.*  
@@ -35,6 +37,7 @@ EIM.style(classSelector("btn-primary"), {
 ---
 
 ## 🔹 Behavior (EchoIM)
+- **Echo** Interface Manager
 Representa la **interacción**.  
 EchoIM también gestiona eventos desacoplados del árbol visual, vinculando callbacks a elementos mediante selectores.  
 > *Cómo se comporta en pantalla.*  
